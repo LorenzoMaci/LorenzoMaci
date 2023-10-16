@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Maci</h1>
-<h3 align="center">I'm a Computer Science Student in UNICT INDIA</h3>
+<h3 align="center">I'm a Computer Science Student in UNICT Italy</h3>
 
 - 🌱 I’m currently studying learning **Computer Science(UNICT L-31)**
 
