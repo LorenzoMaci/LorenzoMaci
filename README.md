@@ -3,7 +3,7 @@
 
 - 💻 I’m currently studying  **Computer Science(UNICT L-31)**
 
-- 📫 How to reach me **lorenzomaci@virgilio.it**
+- 📫 How to reach me **lorenzo.maci02@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
